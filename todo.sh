@@ -9,7 +9,6 @@ echo "for insert new task press 'n'"
 echo "for see your task press 's'"
 echo "for clear all task press 'c"
 echo "for exit press 'e'"
-read jub
 echo $jub
 if [ $jub == "n" ]
   then
